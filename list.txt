@@ -16,5 +16,32 @@ Function Growth: https://www.desmos.com/calculator/g9ff3oupu3
 Simple harmonicm motion: https://www.desmos.com/calculator/lyz5p0jku2
   Tracess Lissajous curves from simple harmonic motion in a user-defineable area
 
+Lissajous curve animator: https://www.desmos.com/calculator/ekeriqp4gl
+  Animates spinning Lissajous curves. This is pure eye candy
+
+Lissajous curve resonance visualizer: https://www.desmos.com/calculator/jvkhw0axll
+  Creates curves from simple harmonic motion with a given resonsance ratio
+
+Fourier series consturctor: https://www.desmos.com/calculator/hop9rk3nzm
+  Constructs a Fourier series of any function, showing the period function as well as the approximation and the sines that added up to produce that approximation
+
 Solar Calculations: https://www.desmos.com/calculator/n9dxrxtvxm
   Calculates sunrise/sunset times with a complete UI. See C repository that accomplishes this much more efficiently and accurately, but in an admittedly less impressive way.
+
+Solar Calculations + Visualization: https://www.desmos.com/calculator/vmutgtuosc
+  Similar to the above, but with more visual elements. It's also MUCH slower
+
+Day Length Visualizer: https://www.desmos.com/calculator/gpzy5peijq
+  Yet another solar calculation tool, with more emphasis on trends than daily numbers
+
+Collisions Feasibility Visualizer: https://www.desmos.com/calculator/pafak9da7s
+  Demostrates whether collisions with given conditions are possible
+
+Math visualizations:
+Parametric motion: https://www.desmos.com/calculator/9d0kl0wj73
+Derivatives: https://www.desmos.com/calculator/5hh9xlgqko
+Riemann sums to continuous integrals: https://www.desmos.com/calculator/ph7zg8vcpy
+Slope fields: https://www.desmos.com/calculator/bxedrz4nsa
+Average rates of change to derivatives: https://www.desmos.com/calculator/shfy1hliin
+Types of discontinuities: https://www.desmos.com/calculator/9oihjshtgs
+Limit at a point: https://www.desmos.com/calculator/ztmzgzuxpg
