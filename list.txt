@@ -45,3 +45,6 @@ Slope fields: https://www.desmos.com/calculator/bxedrz4nsa
 Average rates of change to derivatives: https://www.desmos.com/calculator/shfy1hliin
 Types of discontinuities: https://www.desmos.com/calculator/9oihjshtgs
 Limit at a point: https://www.desmos.com/calculator/ztmzgzuxpg
+Limits to infinity: https://www.desmos.com/calculator/q3uozjbmyh
+Trig functions and their relations to the unit circle: https://www.desmos.com/calculator/gm9mdgvkze
+Taylor series: https://www.desmos.com/calculator/axxk2jgdtg
