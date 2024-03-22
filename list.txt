@@ -15,3 +15,6 @@ Function Growth: https://www.desmos.com/calculator/g9ff3oupu3
 
 Simple harmonicm motion: https://www.desmos.com/calculator/lyz5p0jku2
   Tracess Lissajous curves from simple harmonic motion in a user-defineable area
+
+Solar Calculations: https://www.desmos.com/calculator/n9dxrxtvxm
+  Calculates sunrise/sunset times with a complete UI. See C repository that accomplishes this much more efficiently and accurately, but in an admittedly less impressive way.
