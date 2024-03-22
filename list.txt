@@ -1,0 +1,17 @@
+Elliptic lift distribution CL curve: https://www.desmos.com/calculator/scoeu1xg4r
+  Display the CL curve for an elliptic lift distribution on a tapered wing
+
+Mohr Circle demonstrator: https://www.desmos.com/calculator/zcmm55srxh
+  Visualizes the Mohr Circle, a mechanics of materials concept for analysis of stress states through stress transformations
+
+Satellite movement: https://www.desmos.com/calculator/ichwni7wfi
+  Animates a satellite moving in a Newtonian gravity field around a point mass planet
+
+Linear regressions: https://www.desmos.com/calculator/krxab9ldz5
+Determines a best-fit linear model and displays of squared errors visually. Allows the user to "guess" the best fit, and then validates their guess
+
+Function Growth: https://www.desmos.com/calculator/g9ff3oupu3
+  Shows function growth over increasingly large inputs. Best for calculus 2 demonstration of function growth order
+
+Simple harmonicm motion: https://www.desmos.com/calculator/lyz5p0jku2
+  Tracess Lissajous curves from simple harmonic motion in a user-defineable area
