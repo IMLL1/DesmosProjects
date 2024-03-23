@@ -22,6 +22,8 @@ Lissajous curve animator: https://www.desmos.com/calculator/ekeriqp4gl
 Lissajous curve resonance visualizer: https://www.desmos.com/calculator/jvkhw0axll
   Creates curves from simple harmonic motion with a given resonsance ratio
 
+Harmonic oscillation producing patterns: https://www.desmos.com/calculator/kxfczfexk2
+
 Fourier series consturctor: https://www.desmos.com/calculator/hop9rk3nzm
   Constructs a Fourier series of any function, showing the period function as well as the approximation and the sines that added up to produce that approximation
 
@@ -48,3 +50,4 @@ Limit at a point: https://www.desmos.com/calculator/ztmzgzuxpg
 Limits to infinity: https://www.desmos.com/calculator/q3uozjbmyh
 Trig functions and their relations to the unit circle: https://www.desmos.com/calculator/gm9mdgvkze
 Taylor series: https://www.desmos.com/calculator/axxk2jgdtg
+Newton's method of root finding: https://www.desmos.com/calculator/uquu3lmzpf
